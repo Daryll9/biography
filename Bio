@@ -1,0 +1,51 @@
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  <title><b>A Journey Through Time: My Life Story</b></title>
+    <link rel="stylesheet" href="styles.css"> <!-- External CSS -->
+    <style>
+        /* Internal CSS */
+        body {
+            font-family: 'Arial, sans-serif, Helvetica';
+            
+            background-color: #FFFAEC;
+        }
+               
+        h1 {
+            color: #3D3D3D;
+            text-align: center;
+          text-shadow: 7px 7px 5px #578E7E;
+        }
+        h2, h3 {
+            color: #3D3D3D;
+          text-align: left;
+        }
+        p {
+            text-align: justify;
+        }
+        strong {
+            color: #578E7E;
+        }
+      img { 
+  
+  
+}
+    </style>
+</head>
+<body>
+    <div class="head">
+        <h1>A Journey Through Time: My Life Story</h1>
+        
+      <h2><blockquote>Childhood Years</blockquote></h2>
+        <p><blockquote>I was born in <strong>Tondo</strong>, a lively and bustling district filled with hardworking and resilient people.<sup>1</sup> My childhood was shaped by both challenges and joyful moments. <sup>2</sup>I grew up in a household where my father worked abroad to provide for our family. <sup>3</sup>During this time, my mother took on the responsibility of guiding and raising me. <sup>4</sup>She ensured that I had the support and discipline needed to grow into a responsible individual. <sup>5</sup>Despite missing my father, I always felt his love and sacrifices. <sup>6</sup>This motivated me to do well in school. <sup>7</sup>I developed a strong passion for sports, particularly basketball. <sup>8</sup>In grade six, I was fortunate to become part of the varsity basketball team. <sup>9</sup>Playing basketball taught me teamwork, discipline, and perseverance. <sup>10</sup>My childhood was also filled with simple yet meaningful moments. <sup>11</sup>Riding bikes with friends was one of my favorite pastimes. <sup>12</sup>Playing video games at home kept me entertained for hours. <sup>13</sup>Weekend outings with my mother were special to me. <sup>14</sup>School was both exciting and challenging. <sup>15</sup>I always tried my best, knowing that my parents worked hard for my education. <sup>16</sup>Through my mother's constant guidance, I learned the importance of respect and perseverance. <sup>17</sup>I developed a curious mind, eager to explore new things. <sup>18</sup>Looking back, my childhood shaped the foundation of who I am today. <sup>19</sup>It instilled in me a deep appreciation for family, hard work, and resilience. <sup>20</sup>I will always cherish the memories that shaped my early years.</blockquote></p>
+        
+        <h2><blockquote>Teenage Years</blockquote></h2>
+        <p><blockquote>I entered my teenage years, and many aspects of my life started to change.<sup>1</sup> My father returned home and became more present in my life. <sup>2</sup>He guided me through the challenges of growing up. <sup>3</sup>With both my parents supporting me, I gained a stronger sense of direction. <sup>4</sup>High school introduced me to new experiences and friendships. <sup>5</sup>It also brought academic pressures that pushed me to grow. <sup>6</sup>While I still had a deep love for basketball, I explored other interests. <sup>7</sup>I took on leadership roles in school and joined extracurricular activities. <sup>8</sup>Balancing academics and personal life was difficult at times. <sup>9</sup>However, I learned how to manage my priorities. <sup>10</sup>My teenage years were filled with memorable moments. <sup>11</sup>School competitions and group projects challenged me. <sup>12</sup>Preparing for major exams tested my perseverance. <sup>13</sup>I also faced challenges that tested my confidence. <sup>14</sup>With my father's guidance and my mother's unwavering support, I overcame them. <sup>15</sup>These years shaped my values and taught me resilience. <sup>16</sup>I learned to set goals for myself and work hard to achieve them. <sup>17</sup>The friendships I built played a crucial role in my growth. <sup>18</sup>They taught me about trust, loyalty, and positive influences. <sup>19</sup>My teenage years prepared me for the responsibilities of adulthood. <sup>20</sup>I grew into a more independent and confident person.</blockquote></p>
+        
+        <h2><blockquote>College Years</blockquote></h2>
+  <p><blockquote>Entering college was both an exciting and overwhelming experience.<sup>1</sup> It marked a new chapter in my journey. <sup>2</sup>With my father’s guidance and my mother’s support, I faced this transition with determination. <sup>3</sup>College life was challenging with demanding coursework and tight schedules. <sup>4</sup>However, I embraced every challenge as an opportunity to grow. <sup>5</sup>I pursued a field that aligned with my interests and aspirations. <sup>6</sup>Beyond academics, I joined organizations that expanded my network. <sup>7</sup>I developed leadership abilities through these activities. <sup>8</sup>College taught me valuable life lessons about independence and decision-making. <sup>9</sup>There were moments of exhaustion and self-doubt. <sup>10</sup>However, I always reminded myself of my parents’ sacrifices. <sup>11</sup>Each success and failure became a stepping stone for growth. <sup>12</sup>I built meaningful friendships that enriched my college experience. <sup>13</sup>These connections helped me navigate academic and personal challenges. <sup>14</sup>My professors and mentors played a crucial role in shaping my career path. <sup>15</sup>Participating in internships provided me with hands-on experience. <sup>16</sup>Each project and assignment sharpened my skills. <sup>17</sup>As I near the completion of my studies, I feel prepared for the future. <sup>18</sup>College has equipped me with knowledge and confidence. <sup>19</sup>I am excited about the opportunities ahead and the endless possibilities the future holds. <sup>20</sup>Graduation will be a milestone that marks the beginning of a new adventure.</blockquote></p>
+    </div>
+</body>
+</html>
